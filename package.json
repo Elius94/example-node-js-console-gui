@@ -1,0 +1,32 @@
+{
+    "name": "example-node-js-console-gui",
+    "version": "1.0.0",
+    "description": "This example shows how to play with stdout to draws input popups and more.",
+    "main": "index.mjs",
+    "type": "module",
+    "scripts": {
+        "test": "mocha",
+        "start": "node index.mjs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/elius94/example-node-js-console-gui.git"
+    },
+    "keywords": [
+        "tcp",
+        "random",
+        "faker",
+        "simulator",
+        "generator",
+        "socket"
+    ],
+    "author": "Elia Lazzari",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/elius94/example-node-js-console-gui/issues"
+    },
+    "homepage": "https://github.com/elius94/example-node-js-console-gui#readme",
+    "dependencies": {
+        "chalk": "^5.0.1"
+    }
+}
